@@ -1,0 +1,42 @@
+body{
+    background-color: #0076b6;
+    overflow-x: hidden;
+}
+
+header{
+    background-color: #f77f00;
+    margin-top: -1%;
+    margin-left: -2%;
+    margin-right: -2%;
+ 
+}
+
+h1{
+    color: #092149;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-family: BEBAS NEUE;
+    font-size:36pt;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: #0076b6;
+    font-family: Gilroy Light;
+    font-size: 18pt;
+    color: #f77f00;
+  
+}
+
+button{
+    background-color: #092149;
+    border-color: #092149;
+    width: 1000px;
+
+}
+img{
+    margin-top: 5px;
+}
